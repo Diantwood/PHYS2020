@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "PHYS2020: Thermoelectric Effects"
+  author: "PHYS2020"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - TED.qmd
+    - experiment.qmd
+    - guidedExp.qmd
+    - Investigation.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt 
+    toc: false
+    number-sections: true
+    colorlinks: true
+
+
+

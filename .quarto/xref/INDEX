@@ -1,0 +1,32 @@
+{
+  "intro.qmd": {
+    "intro.html": "82440ae9"
+  },
+  "index.qmd": {
+    "index.html": "3dfac3ec"
+  },
+  "summary.qmd": {
+    "summary.html": "56e99a47"
+  },
+  "references.qmd": {
+    "references.html": "ec1f9b72"
+  },
+  "history.qmd": {
+    "history.html": "57e3ef7a"
+  },
+  "TED.qmd": {
+    "TED.html": "3d0aef89"
+  },
+  "TEeff.qmd": {
+    "TEeff.html": "33ca9f3b"
+  },
+  "experiment.qmd": {
+    "experiment.html": "1f9bf3e7"
+  },
+  "guidedExp.qmd": {
+    "guidedExp.html": "d2fbdd73"
+  },
+  "Investigation.qmd": {
+    "Investigation.html": "f71a58fa"
+  }
+}

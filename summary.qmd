@@ -1,0 +1,9 @@
+# Conclusion and Tips
+
+As per the criteria sheet, a grade of 4 requires that "The student has completed the experiment and written a full report demonstrating an understanding of key concepts, careful experimentation, good data analysis and evaluation skills, and an ability to write a clear well-structured report. Some deficiency in one or more of these aspects is evident.". The expectation is that you have completed the guided exploration and attempted your own experiment. To show originality or insight (for a 6 or 7), we hope that you complete, to an advanced level, any or multiple of the following:
+
+-   Derive an expression from first principles, mentioning the appropriate assumptions, and use it to support your hypothesis (such as the efficiency).
+
+-   Conduct an experiment with high attention to detail and comprehensive uncertainty analysis.
+
+-   Undertake high-level analysis and critical evaluation of your results by comparing at least two analysis methods.

@@ -1,0 +1,20 @@
+# Your own experiment
+
+Take some time now to formulate what your own investigation will be. Discuss your plans with a tutor before you start. Here are two example extensions to focus on; however, you are welcome to propose your own experiment to the tutors.
+
+## Heating and Cooling Efficiency
+
+If you run the apparatus as a heat pump, you could investigate the maximum coefficient of performance that could be achieved, and what the main factors that limit this performance. To measure the COP, you will need to find a way to measure the power extracted from the cold reservoir or added to the hot reservoir (depending on whether you are interested in cooling the cold reservoir or heating the hot). Note this will be similar to Task 3.
+
+You will need to know that the total heat capacity of the copper block, brass bath, and water is $C_{tot} \approx 1100 \pm 50\frac{J}{kg\ K}$.
+
+::: {.callout-tip}
+## Question 8 (Advanced)
+Similar to the maximum efficiency for TEG devices, we can have a maximum efficiency for cooling. First show that if there were no irreversible transport effects, we get the efficiency is equivalent to the Carnot efficiency for cooling, $\phi_{carnot} \equiv T_{C}/\Delta T$. Then derive the optimal current value $I_{C}^{*}$ by imposing the extremum condition $\frac{dQ_{C}}{dI} = 0$ on $\dot{Q}_{C}$. Hint: you should be able to figure out the expression of $Q_{C}$ from Question 4 & 5. Then find the maximum COP $\phi_{I}^{*} = Q_{C}^{*}/W_{C}$ by imposing $\frac{d\phi}{dI}$. It may be handy to write your answer in terms of the material figure of merit (FOM) $Z \equiv \frac{\sigma S^{2}}{\kappa}$.
+:::
+
+## Air-Cooled Hot-Side
+
+Here you'll investigate the temperature behaviour when the pump is used for cooling, with the hot side air-cooled. A water bath will be cooled by the TEC device and the other side will heat an air cooler. Measure the temperature of the cold side as a function of time, with the air cooler in either static atmospheric air or force-cooled with the hair-dryer. Why might a force-cooled TEC device be useful and where would you find one? Calculate the efficiency.
+
+Make sure you clearly identify the idea, hypothesis, or relationship that your investigation is testing. Explain and justify your choice of method in your report. Remember to estimate/calculate the uncertainty in all measured quantities and use the appropriate formulas to combine them for the uncertainties in final values. Finally, in your conclusions, draw out the implications of your results (bigger picture).

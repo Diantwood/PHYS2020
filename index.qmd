@@ -1,0 +1,5 @@
+# Preface {.unnumbered}
+
+These are the laboratory notes for The University of Queensland's PHYS2020 Thermoelectric Effects experiment. 
+
+These notes should be read before attending the lab to maximise time spent on completing your experiment. 

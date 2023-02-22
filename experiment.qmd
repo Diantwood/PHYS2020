@@ -1,0 +1,109 @@
+# Experiment
+
+Your assignment is to investigate the thermoelectric effects -- Seebeck and Peltier -- and write a lab report on your findings. You will be required to come up with your own experiment. However, it is recommended to follow through the guided exploration below first.
+
+The experiment has two parts: the heat engine (Seebeck) and heat pump (Peltier).
+
+This experiment uses the following equipment:
+
+-   Peltier device
+
+-   Alpha immersion thermostat w/ thermal bath
+
+-   Two thermometers
+
+-   4 multimeters
+
+-   A power supply capable of running 0V → 18V DC (max current 5A) and stepped-down 2V → 15V AC voltage (max current 5A) simultaneously
+
+-   A variable resistor (0Ω → 33Ω)
+
+-   A basic resistor breadboard
+
+-   Assorted resistors: (1.0 ± 2%) Ω, (2.0 ± 2%) Ω, (5.0 ± 5%) Ω, and (10.0 ± 2%) Ω
+
+-   Cables
+
+## Power supply
+
+![](images/PowerSupply.jpg){#fig-powersupp}
+
+1.  \(DC\) Voltage adjustment knob
+
+2.  (DC) Output
+
+3.  \(DC\) Current limiter knob
+
+4.  Indicator light - operating at maxi- mum limited current
+
+5.  Earthed lead
+
+6.  (AC) Selection of voltage step
+
+7.  (AC) Output
+
+8.  (AC) Overload circuit breaker
+
+9.  On/off switch and fuse holder
+
+10. Operation indicator light
+
+::: {.callout-important}
+## Warning
+
+The DC output of the power supply must only be used as an input for the Peltier Device. The AC output of the power supply must only be used as an input for the heating coil (maximum 4 V). To change the AC output, use the rheostat to change the reistance according to $V=IR%$.
+:::
+
+## Alpha immersion thermostat
+
+![](images/Thermostat.jpg){#fig-thermostat}
+
+1.  Power Switch
+
+2.  Temperature controller with four segment LED display
+
+3.  Heater indicator light (yellow LED)
+
+4.  Cooler indicator light (blue LED)
+
+5.  Error indicator light (red LED)
+
+6.  Menu functions, select and enter keys
+
+7.  Tubular heater
+
+8.  Temperature probe Pt100
+
+9.  Pump outflow or pressure outlet with pump outflow reducer
+
+10. Pump housing
+
+::: {.callout-important}
+## Warning
+
+Because the thermostat is used as the hot reservoir (up to 80°C), please exercise caution to avoid burning yourself. Wear the provided gloves if handling any of the heated-up equipment.
+:::
+
+## Peltier Experiment Apparatus
+
+![This figure displays the setup for the Peltier (cooling) Experiment](images/PeltierApparatus.jpg){#fig-apparatus}
+
+1.  Variable resistor
+
+2.  Power supply
+
+3.  Thermometer (slots into Peltier device holes)
+
+4.  Peltier device (Thermoelectric device)
+
+5.  Blower
+
+6.  Second thermometer (can sit in reservoir of still water)
+
+7.  Heat sink
+
+::: {.callout-important}
+## Warning
+
+To keep yourself safe and the equipment undamaged, please consult with the tutors before turning on any of the equipment.
+:::
