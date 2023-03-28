@@ -1,1 +1,1 @@
-{"options":{"chapters":true},"headings":["power-supply","alpha-immersion-thermostat","peltier-experiment-apparatus"],"entries":[{"key":"fig-apparatus","caption":"This figure displays the setup for the Peltier (cooling) Experiment","order":{"section":[3,3,0,0,0,0,0],"number":1}}]}
+{"headings":["power-supply","alpha-immersion-thermostat","peltier-experiment-apparatus"],"entries":[{"key":"fig-apparatus","order":{"number":1,"section":[3,3,0,0,0,0,0]},"caption":"This figure displays the setup for the Peltier (cooling) Experiment"}],"options":{"chapters":true}}

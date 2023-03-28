@@ -24,6 +24,6 @@ format:
     toc: false
     number-sections: true
     colorlinks: true
-
+    keep-tex: true
 
 
